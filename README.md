@@ -102,7 +102,7 @@
 <h>Espanish - B1<br></h>
 <h1>⚙️Contact<br></h1>
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaoefcabral@gmail.com) 
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoefcabral@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/feed/)
 
