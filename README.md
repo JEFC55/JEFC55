@@ -1,3 +1,4 @@
+![Typing SVG](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&weight=500&pause=1000&color=F70404&center=true&vCenter=true&width=435&lines=Hi+my+name+is+Jo%C3%A3o+Emmanuel!)<br>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DSixtyfour+Convergence%3ASCAN%2CXELA%2CYELA%40-23%2C47%2C-5%26display%3Dswap&weight=500&pause=1000&color=F70404&center=true&vCenter=true&width=435&lines=Welcome+to+my+git!)
 
