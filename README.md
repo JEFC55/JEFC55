@@ -91,13 +91,6 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" 
 /><img 
-    alt="pycharm" 
-    title="pycharm"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg
-" 
-/><img 
     alt="pytorch" 
     title="pytorch"
     width="30px" 
