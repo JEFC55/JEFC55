@@ -1,4 +1,5 @@
 ![Typing SVG](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Sixtyfour+Convergence&weight=500&pause=1000&color=8e7cc3&center=true&vCenter=true&width=435&lines=My+name+is+Jo%C3%A3o+Emmanuel!)
 <h1>⚙️Tecnologies⚙️</h1>
 
@@ -103,4 +104,4 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoefcabral@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/feed/)
-
+</div>
