@@ -125,7 +125,6 @@
 <h>English - B2<br></h>
 <h>Espanish - B1<br></h>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JEFC55&rank=-C,-?&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 <h1>⚙️Contact<br></h1>
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoefcabral@gmail.com) 
