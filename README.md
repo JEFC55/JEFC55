@@ -109,12 +109,23 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pypi/pypi-original.svg" 
+/><img 
+    alt="django" 
+    title="django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" 
+/><img 
+    alt="matplotlib" 
+    title="matplotlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib-original-wordmark.svg
+" 
 />
 
 <br/>
-
 <h1>🛠️About me💻</h1>
-
 <div>
 <h3> I love to learn, i'm very interessed, dedicated and curious person. I'm passionate about problem solving and I really like undestanding how all sorts of things work. And I'm very excited about technology, because I love to study, but most of all, I love putting what I've learned into practice!<br></h3>
 <h3>I turn coffee into code and dreams into reality!</h3>
